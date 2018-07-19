@@ -1,0 +1,11 @@
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\bin\Debug\netcoreapp1.1\CursoCSharpp.deps.json
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\bin\Debug\netcoreapp1.1\CursoCSharpp.runtimeconfig.json
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\bin\Debug\netcoreapp1.1\CursoCSharpp.runtimeconfig.dev.json
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\bin\Debug\netcoreapp1.1\CursoCSharpp.dll
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\bin\Debug\netcoreapp1.1\CursoCSharpp.pdb
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.csprojAssemblyReference.cache
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.csproj.CoreCompileInputs.cache
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.AssemblyInfo.cs
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.dll
+c:\users\dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.pdb
+C:\Users\Dev\source\repos\CursoCSharpp\CursoCSharpp\obj\Debug\netcoreapp1.1\CursoCSharpp.AssemblyInfoInputs.cache
