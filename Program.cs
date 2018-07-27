@@ -28,6 +28,15 @@ namespace CursoCSharp {
 
                 //Estruturas de Controle
                 {"Estrutura If - Estrutura de Controle", EstruturaIf.Executar },
+                {"Estrutura If Else - Estrutura de Controle", EstruturaIfElse.Executar },
+                {"Estrutura If Else If - Estrutura de Controle", EstruturaIfElseIf.Executar },
+                {"Estrutura Switch - Estrutura de Controle", EstruturaSwitch.Executar },
+                {"Estrutura While - Estrutura de Controle", EstruturaWhile.Executar },
+                {"Estrutura DO While - Estrutura de Controle", EstruturaDoWhile.Executar },
+                {"Estrutura For - Estrutura de Controle", EstruturaFor.Executar },
+                {"Estrutura Foreach - Estrutura de Controle", EstruturaForEach.Executar },
+                {"Usando Break - Estrutura de Controle", UsandoBreak.Executar },
+                {"Usando Continue - Estrutura de Controle", UsandoContinue.Executar },
             });
 
             central.SelecionarEExecutar();
